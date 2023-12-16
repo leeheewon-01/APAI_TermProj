@@ -6,14 +6,6 @@
 ## Introduction
 We presents mPLUG, a new vision-language foundation model for both cross-modal understanding and generation. Most existing pre-trained models suffer from inefficiency and linguistic signal overwhelmed by long visual sequences in cross modal alignment. To address both problems, mPLUG introduces an effective and efficient vision-language architecture with novel cross modal skip-connections. mPLUG achieves state-of-the-art results on a wide range of vision language downstream tasks, including image captioning, image-text retrieval, visual grounding and visual question answering.
 
-<img src="mplug_framework.png" width="600"> 
-
-
-## News
-
-* 2023.5.08: Moved from [AliceMind repo](https://github.com/alibaba/AliceMind) for further update.
-* 2022.8.28: Released mPLUG downstream tasks!
-
 
 ## Pre-trained models and datasets
 
