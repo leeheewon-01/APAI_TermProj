@@ -163,7 +163,3 @@ If you use our work, please cite:
   year={2022}
 }
 ```
-## Acknowledgement
-
-The implementation of mPLUG relies on resources from [ALBEF](https://github.com/salesforce/ALBEF), [BLIP](https://github.com/salesforce/BLIP), and [timm](https://github.com/rwightman/pytorch-image-models/tree/master/timm). We thank the original authors for their open-sourcing.
-
