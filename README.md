@@ -127,48 +127,6 @@ For VQA and image captioning tasks, we do an additional continue pre-training on
 </tbody>
 </table>
 
-- Video-text
-
-<table>
-<thead>
-  <tr align="center">
-    <th>Task</th>
-    <th>Video Retrieval</th>
-    <th colspan="2">Video QA</th>
-    <th>Video Captioning</th>
-  </tr>
-</thead>
-<tbody>
-  <tr align="center">
-    <td>Dataset</td>
-    <td>MSRVTT</td>
-    <td>MSRVTT-QA</td>
-    <td>MSVD-QA</td>
-    <td>VATEX</td>
-  </tr>
-  <tr align="center">
-    <td>Split</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test(CE)</td>
-  </tr>
-  <tr align="center">
-    <td>Metric</td>
-    <td>R@1</td>
-    <td>Acc.</td>
-    <td>Acc.</td>
-    <td>CIDEr</td>
-  </tr>
-  <tr align="center">
-    <td>mPLUG</td>
-    <td>38.1</td>
-    <td>21.1</td>
-    <td>37.2</td>
-    <td>42.0</td>
-  </tr>
-</tbody>
-</table>
 
 
 ## Requirements
