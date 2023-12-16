@@ -1,0 +1,9 @@
+torch
+transformers
+timm
+decord
+ftfy
+oss2
+opencv-python
+more_itertools
+colorlog
